@@ -248,6 +248,10 @@ Displays all saved expenses in an organized list.
 
 Allows users to modify the details of an existing expense.
 
+### Delete Expense 
+
+Allows users to delete the existing expense.
+
 ## 🎯 Purpose
 
 The main purpose of this project is to develop a simple Android application for personal expense management while demonstrating important Android development concepts such as:
@@ -272,7 +276,7 @@ The following screenshots demonstrate the main screens and functionality of the 
 
 ### 🏠 Home / Expense Tracker Screen
 
-<img width="350" height="778" alt="Home Screen" src="https://github.com/user-attachments/assets/c7d21712-3587-4af4-92fb-b2a92d53fe48" />
+<img width="350" height="778" alt="Home Screen" src="https://github.com/user-attachments/assets/212e34e9-0abc-42dc-8c92-1113b4923dbc" />
 
 ### ➕ Add Expense Screen
 
@@ -280,7 +284,7 @@ The following screenshots demonstrate the main screens and functionality of the 
 
 ### 📋 Expense List
 
-<img width="350" height="778" alt="Expense List" src="https://github.com/user-attachments/assets/17bf8e2d-b063-47d1-a9d0-9b3b97cc6a6a" />
+<img width="350" height="778" alt="Expense List" src="https://github.com/user-attachments/assets/2e75217f-18f6-433b-8e3e-9a673c1e7c1e" />
 
 ### ✏️ Edit Expense Screen
 
@@ -296,7 +300,7 @@ The following screenshots demonstrate the main screens and functionality of the 
 
 ### 💰 Expense Summary
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c3bc4cb6-107c-444c-ae72-af818367f8fa" />
+<img width="350" height="778" alt="image" src="https://github.com/user-attachments/assets/c3bc4cb6-107c-444c-ae72-af818367f8fa" />
 
 ## 📁 Screenshot Folder Structure
 
