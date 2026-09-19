@@ -58,17 +58,23 @@ The application supports the basic CRUD operations:
 
 Operation| Description Create| Add a new expense Read| View saved expenses Update| Edit an existing expense Delete| Remove an expense
 
+🔑 Passwords
+Username: prince     Password: prince123
+Username: Prince1    Password: Prince1@123
+Username: admin      Password: admin123
+
 📸 Screenshots
 
 Add screenshots of the application here:
 
+<img width="350" height="778" alt="image" src="https://github.com/user-attachments/assets/24c2e8f6-b553-4a9c-9c42-5b6483b9fe38" />
 <img width="350" height="778" alt="image" src="https://github.com/user-attachments/assets/c7d21712-3587-4af4-92fb-b2a92d53fe48" />
 <img width="350" height="778" alt="image" src="https://github.com/user-attachments/assets/e2d7fc64-36b4-4114-bb0d-e10e1356e4ab" />
 <img width="350" height="778" alt="image" src="https://github.com/user-attachments/assets/17bf8e2d-b063-47d1-a9d0-9b3b97cc6a6a" />
 <img width="350" height="778" alt="image" src="https://github.com/user-attachments/assets/b78ed2fe-2302-4a40-a29c-fc6ae6873b86" />
 <img width="350" height="778" alt="image" src="https://github.com/user-attachments/assets/ba391da1-db68-483e-860b-1a96472ff07d" />
 
-screenshots/ ├── home.png ├── add-expense.png ├── expense-list.png ├── edit-expense.png └── expense-list.png
+screenshots/ ├── login.png ├── home.png ├── add-expense.png ├── expense-list.png ├── edit-expense.png └── expense-list.png
 
 🔮 Future Improvements
 
