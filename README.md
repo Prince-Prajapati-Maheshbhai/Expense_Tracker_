@@ -345,9 +345,15 @@ The project can be further improved by adding:
 ## 📄 Project Information
 
 **Project Name:** Expense Tracker
+
 **Platform:** Android
+
 **Language:** Kotlin
+
 **IDE:** Android Studio
+
 **UI:** XML
-**Database:** SQLite / Room Database
+
+**Database:** SharedPreferences (JSON-based local storage)
+
 **Version:** 1.0
